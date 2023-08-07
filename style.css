@@ -1,0 +1,26 @@
+
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-compatible" content="IE=edge">
+    <meta name="vieport" content="width=device-width. initial-scale=1.0">
+    <title>document</title>
+    <link rel=stylesheet" href="styles.css"
+</head>
+
+<body>
+    <header class="cabeçalho">
+       <img class="cabeçalho-imagem" rsc="alurastart logo.png" alt="logo da alura
+       <ul class"cabeçalho-lista">
+           <li class="cabeçalho-lista-item">Escola</li>
+           <li class="cabeçalho-lista-item">Estudante</li>
+       </ul>
+   </header>
+   <section class="escola">
+       <h2 class="escola titulo">Sobre a Ecola</h2>
+       <p class="escola-texto-um"></p>
+       <p class="escola-texto-dois"></p>
+   </section>
+</body>
+
+</html>
